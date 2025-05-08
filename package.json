@@ -1,6 +1,8 @@
 {
   "name": "coffee-shop-frontend",
   "version": "1.0.0",
+  "type": "module",
+  "homepage": "https://github.com/Sambodhlamsonge/TheThreeBrose.git",
   "private": true,
   "dependencies": {
     "aos": "^2.3.4",
